@@ -1,0 +1,227 @@
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+
+[DOCUMENTATION]
+ORG_NAME="Quantum Stellar"
+ORG_DBA="From well-behaved to intact and correct nodes. Road to understanding the Stellar Consensus Protocol (SCP)"
+ORG_PHYSICAL_ADDRESS="2556 Classen Blvd, Oklahoma, 73069, United States"
+ORG_TWITTER="quantumstellar"
+ORG_GITHUB="quantumstellar"
+ORG_URL="https://quantumstellar.vercel.app"
+ORG_LOGO="https://quantumstellar.vercel.app/images/quantumstellar.png"
+ORG_OFFICIAL_EMAIL="info@quantumstellar.vercel.app"
+ORG_SUPPORT_EMAIL="mail@quantumstellar.vercel.app"
+ORG_PHONE_NUMBER="(405) 701-0715"
+ORG_DESCRIPTION="THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+
+
+
+[[PRINCIPALS]]
+name="Liza Parisian"
+github="Crypto_Liza"
+keybase="Crypto_Liza"
+twitter="Crypto_Liza"
+email="liza@quantumstellar.vercel.app"
+
+
+[[CURRENCIES]]
+code="STARLINK"
+name="StarlinkÂ®"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="Starlink is a satellite internet constellation operated by SpaceX providing satellite Internet access to most of the Earth."
+anchor_asset_type="Stock"
+anchor_asset="STARLINK"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/STARLINK.png"
+
+[[CURRENCIES]]
+code="riverlane"
+name="RIVERLANE"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="The Operating System for Quantum Computers."
+anchor_asset_type="Stock"
+anchor_asset="RIVERLANE"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/riverlane.png"
+
+[[CURRENCIES]]
+code="Rigetti"
+name="RIGETTI"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="Rigetti Computing is building the world's most powerful computers to help solve humanity's most pressing and important problems."
+anchor_asset_type="Stock"
+anchor_asset="RIGETTI"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/Rigetti.png"
+
+[[CURRENCIES]]
+code="QUBIT"
+name="QUBITâ„¢"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="Qubit is a two-state (or two-level) quantum-mechanical system, one of the simplest quantum systems displaying the peculiarity of quantum mechanics."
+anchor_asset_type="Stock"
+anchor_asset="QUBIT"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/QUBIT.png"
+
+[[CURRENCIES]]
+code="QuantumComp"
+name="QUANTUMCOMPÂ©"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="The Quantum Computing is fully integrated with the Strangeworks QCâ„¢ platform. It was built with the sole purpose of bringing the power of multiple quantum computers into a single place, making them accessible to whomever wants to use them."
+anchor_asset_type="Stock"
+anchor_asset="QUANTUMCOMP"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/QuantumComp.png"
+
+[[CURRENCIES]]
+code="QUANTROPI"
+name="Quantropiâ„¢"
+issuer="GCQTOVTTYXACZEO3ONRPAVUGK5SGQNNZCIZ67NEGASTNNIHKRRZW2DH4"
+desc="Quantropi delivers novel, end-to-end quantum-secure data communication solutions uniquely capable of all three cryptographic prerequisites: Trust, Uncertainty, and Entropy."
+conditions="DeFi"
+anchor_asset_type="Stock"
+anchor_asset="QUANTROPI"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/QUANTROPI.png"
+
+[[CURRENCIES]]
+code="QCtrl"
+name="Q-CTRL"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="We deliver transformational real-world outcomes from quantum technology. Q-CTRL enables researchers, developers, and engineers to build stable, reliable quantum computers and quantum sensors, without suffering from the noise and hardware error that has held back the field for so long."
+anchor_asset_type="Stock"
+anchor_asset="QCTRL"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/QCtrl.png"
+
+[[CURRENCIES]]
+code="QCI"
+name="QUANTUM CIRCUIT INC"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="Quantum Circuits Inc. is a Yale University spin-off that designs superconducting quantum computing systems. It intends to develop modular quantum computers that can be reconfigured multiple times to function as computing systems for drug discovery and genetics, financial applications, industrial design functions, etc."
+anchor_asset_type="Stock"
+anchor_asset="QCI"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/QCI.png"
+
+[[CURRENCIES]]
+code="PsiQ"
+name="PSIQuantum"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="PsiQuantum aims to develop and manufacture universal quantum computer based on photonic technology."
+anchor_asset_type="Stock"
+anchor_asset="PsiQ"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/PsiQ.png"
+
+[[CURRENCIES]]
+code="IONQ"
+name="IONQ"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="The world's most powerful quantum computer."
+anchor_asset_type="Stock"
+anchor_asset="IONQ"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/IONQ.png"
+
+[[CURRENCIES]]
+code="IBMQuantum"
+name="IBM Qâ„¢"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="IBM Quantum services combine world-leading quantum processors with cryogenic components, control electronics, and classical computing technology."
+anchor_asset_type="Stock"
+anchor_asset="IBMQuantum"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/IBMQuantum.png"
+
+[[CURRENCIES]]
+code="IBMQNETWORK"
+name="IBM Q Networkâ„¢"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="Being part of the IBM Quantum Network enables us to perform state-of-the-art quantum computing research using IBM Q technology."
+anchor_asset_type="Stock"
+anchor_asset="IBMQNETWORK"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/IBMQNETWORK.png"
+
+[[CURRENCIES]]
+code="EntropicaLab"
+name="ENTROPICA LABS"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc=" Entropica create the models, algorithms and software tools to make quantum computing useful"
+anchor_asset_type="Stock"
+anchor_asset="EntropicaLab"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/EntropicaLab.png"
+
+[[CURRENCIES]]
+code="DWave"
+name="D-WAVE"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="D-Wave is the only quantum computing company solving real business problems and demonstrating quantum ROI."
+anchor_asset_type="Stock"
+anchor_asset="DWave"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/DWave.png"
+
+[[CURRENCIES]]
+code="ColdQuanta"
+name="COLDQUANTA"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="ColdQuanta is the leader in Cold Atom Quantum Technology, the most scalable, versatile, and commercially viable area of quantum."
+anchor_asset_type="Stock"
+anchor_asset="COLDQUANTA"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/ColdQuanta.png"
+
+[[CURRENCIES]]
+code="AzureQuantum"
+name="AZURE QUANTUM"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="Azure Quantum is an open ecosystem bringing the most innovative quantum computing and optimization solutions into a single marketplace."
+anchor_asset_type="Stock"
+anchor_asset="AzureQuantum"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/AzureQuantum.png"
+
+[[CURRENCIES]]
+code="AtomByAtom"
+name="ATOM BY ATOM"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="Assembling matter atom-by-atom is the ultimate goal of nanotechnology."
+anchor_asset_type="Stock"
+anchor_asset="AtomByAtom"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/AtomByAtom.png"
+
+[[CURRENCIES]]
+code="ATOM"
+name="ATOMÂ®"
+issuer="GDX73IVWWF3RZ5RIEA6PVXB6E4MZL2YAURYCPYNU5W3ZXVRR3BYESJJA"
+desc="ATOMÂ® the leading AI Based Theatre Optimisation solution deployed within the NHS has now processed over 1million procedures using its Natural Language Processing platform, delivering service efficiencies to Theatres across the NHS."
+anchor_asset_type="Stock"
+anchor_asset="DELOITTE"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/ATOM.png"
+
+[[CURRENCIES]]
+code="AmazonBraket"
+name="AMAZON BRAKET"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="Amazon Braket is a fully managed quantum computing service designed to help speed up scientific research and software development for quantum computing."
+anchor_asset_type="Stock"
+anchor_asset="AmazonBraket"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/AmazonBraket.png"
+
+[[CURRENCIES]]
+code="1QBit"
+name="1QBit"
+issuer="GCUOF4DWCLWVQVKJIEPC2QOD7W6KTUFRAHRLOKKYJNS7VICI3WSVBUTS"
+desc="1QBit solves industry's most demanding computational challenges by recasting problems to harness the power of advanced computing."
+anchor_asset_type="Stock"
+anchor_asset="1QBit"
+conditions="Digital Currency"
+image="https://quantumstellar.vercel.app/images/1QBit.png"
